@@ -9,5 +9,5 @@ In this workshop, we try out some practical applications of Image Processing:
 5. Talk on the capabilities of image processing and introduction to dlib.
 
 To get more information about the previous workshops:
-https://github.com/jehadmohamedz/sosc_cv101
+<br>https://github.com/jehadmohamedz/sosc_cv101</br>
 <br>https://github.com/jehadmohamedz/sosc_cv102</br>
