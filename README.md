@@ -10,4 +10,4 @@ In this workshop, we try out some practical applications of Image Processing:
 
 To get more information about the previous workshops:
 https://github.com/jehadmohamedz/sosc_cv101
-https://github.com/jehadmohamedz/sosc_cv102
+<br>https://github.com/jehadmohamedz/sosc_cv102</br>
